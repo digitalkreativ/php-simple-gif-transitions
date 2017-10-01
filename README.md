@@ -6,7 +6,9 @@ Both images will have to be of the same size.
 
 ## Installation
 
-Coming soon
+```bash
+    composer require digitalkreativ/php-simple-gif-transitions
+```
 
 ## Example
 
