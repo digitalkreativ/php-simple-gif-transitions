@@ -98,10 +98,7 @@ class BaseScenario
             $frameFileName = '0' . $frameFileName;
         }
 
-        echo $tempDirectory . DIRECTORY_SEPARATOR . $frameFileName . '.jpg';
-
         return  $tempDirectory . DIRECTORY_SEPARATOR . $frameFileName . '.jpg';
-
     }
 
 }
