@@ -2,6 +2,8 @@
     "name": "digitalkreativ/php-simple-gif-transitions",
     "description": "Create an animated gif that displays a simple transition between one image and another image of the same size",
     "type": "library",
+    "keywords": [ "gif", "animated", "creation", "encode", "PHP" ],
+    "homepage": "https://github.com/digitalkreativ/php-simple-gif-transitions",
     "license": "MIT",
     "authors": [
         {
